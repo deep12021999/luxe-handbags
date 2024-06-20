@@ -200,7 +200,7 @@ export function Landing() {
             </Link>
             <Link
               className="text-[#ffb6c1] hover:text-[#ffefd5] dark:text-[#ffefd5] dark:hover:text-[#ffb6c1]"
-              href="#">
+              href="/contact">
               Contact
             </Link>
           </nav>
